@@ -1,7 +1,7 @@
 # Advanced Text-to-Speech Converter
 A Python-based desktop application built using **PyQt6** and **pyttsx3** for converting text to speech. This application supports multiple languages, voice selection, speed and volume control, and the ability to save the output as an MP3 file.
 
-![python/Screenshot 2025-03-15 160205.png](screenshots/main_window.png)
+![Main Window](screenshots/Screenshot%202025-03-15%20160205.png)
 
 ## Features
 - **Text Input**: Enter text to convert it to speech.
